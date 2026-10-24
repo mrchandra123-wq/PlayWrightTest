@@ -46,4 +46,5 @@ console.log('Logout done');
 
 await loginPageInstance.closeApplication();
 console.log('Sauce demo application is closed');
+console.log('App closed');
 })
